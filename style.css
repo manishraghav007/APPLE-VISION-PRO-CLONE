@@ -20,7 +20,7 @@
     background-color: #000000;
     color: #fff; /* Set text color to white */
     font-weight: bold; /* Make the text bold */
-    font-style: italic; /* Add italic style (optional) */
+    /* font-style: italic; Add italic style (optional) */
     font-size: 2em; /* Adjust font size as needed */
     text-transform: uppercase; /* Convert text to uppercase (optional) */
     letter-spacing: 2px; /* Add letter spacing for style (optional) */
